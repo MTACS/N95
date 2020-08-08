@@ -3,7 +3,7 @@ Artwork masking for iOS 13 Music app
 
 ![download](https://i.ibb.co/ZM05H6T/banner.png)
 
-# N95 DOCUMENTATION
+# THEME DOCUMENTATION
 
 ## LAYOUT
 > /Library/Application Support/N95/THEMENAME.bundle
