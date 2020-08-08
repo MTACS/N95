@@ -26,5 +26,5 @@ Please submit any issues with N95 by creating a new issue [here](https://github.
 Support for other apps such as Spotify, Pandora and others is coming. We will announce these are they are completed. Requests other than app support can be submitted [here](https://github.com/MTACS/N95/issues/new?assignees=&labels=&template=feature_request.md&title=%5BFeature%5D).
 
 
-
+##
 Copyright © 2020, [Ethan Whited](https://twitter.com/EthanWhited) & [MTAC](https://twitter.com/mtac8)
