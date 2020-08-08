@@ -21,6 +21,6 @@ Artwork masking for iOS 13 Music app
 
 # BUGS & REQUESTS
 
-Please submit any issues with N95 by creating a new issue here. Make sure to fill out all the fields as it makes it much easier for us to diagnose and solve the problem.
+Please submit any issues with N95 by creating a new issue [here](https://github.com/MTACS/N95/issues/new?assignees=&labels=bug&template=bug-report.md&title=%5BBug%5D). Make sure to fill out all the fields as it makes it much easier for us to diagnose and solve the problem.
 
-Support for other apps such as Spotify, Pandora and others is coming. We will announce these are they are completed. Requests other than app support can be submitted here
+Support for other apps such as Spotify, Pandora and others is coming. We will announce these are they are completed. Requests other than app support can be submitted [here](https://github.com/MTACS/N95/issues/new?assignees=&labels=&template=feature_request.md&title=%5BFeature%5D).
