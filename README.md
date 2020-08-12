@@ -32,7 +32,7 @@ Artwork masking for iOS 13 Music app - Now available for download on [Twickd](ht
 ### Tweaks
 
 - [x] NextUp 2
-- [ ] Flow
+- [x] Flow
 
 # BUGS & REQUESTS
 
