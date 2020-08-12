@@ -23,11 +23,16 @@ Artwork masking for iOS 13 Music app - Now available for download on [Twickd](ht
 
 ### Apps
 
-- [x]Apple Music
-- [x]Spotify
-- [x]Tidal
-- [x]Pandora
-- [x]YouTube Music
+- [x] Apple Music
+- [x] Spotify
+- [x] Tidal
+- [x] Pandora
+- [x] YouTube Music
+
+### Tweaks
+
+- [x] NextUp 2
+- [ ] Flow
 
 # BUGS & REQUESTS
 
