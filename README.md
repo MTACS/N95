@@ -19,6 +19,16 @@ Artwork masking for iOS 13 Music app - Now available for download on [Twickd](ht
 
 > Underlay.png (1100x1100) - Underlay is used below the artwork and is not masked
 
+# Third Party Support
+
+### Apps
+
+- [x]Apple Music
+- [x]Spotify
+- [x]Tidal
+- [x]Pandora
+- [x]YouTube Music
+
 # BUGS & REQUESTS
 
 Please submit any issues with N95 by creating a new issue [here](https://github.com/MTACS/N95/issues/new?assignees=&labels=bug&template=bug-report.md&title=%5BBug%5D). Make sure to fill out all the fields as it makes it much easier for us to diagnose and solve the problem.
