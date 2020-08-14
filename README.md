@@ -29,8 +29,8 @@ Artwork masking for iOS 13 Music app - Now available for download on [Twickd](ht
 - [x] Pandora
 - [x] YouTube Music
 - [x] Deezer
+- [x] Marvis
 - [ ] Anghami
-- [ ] Marvis
 
 ### Tweaks
 
