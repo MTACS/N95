@@ -19,7 +19,7 @@ Artwork masking for iOS 13 Music app - Now available for download on [Twickd](ht
 
 > Underlay.png (1100x1100) - Underlay is used below the artwork and is not masked
 
-> Info.plist - Used for displaying author info - [template]()
+> Info.plist - Used for displaying author info - [template](https://github.com/MTACS/N95/blob/master/Info.plist). Do not include ```@``` symbol when adding a Twitter username.
 
 # Third Party Support
 
