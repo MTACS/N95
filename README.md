@@ -19,6 +19,8 @@ Artwork masking for iOS 13 Music app - Now available for download on [Twickd](ht
 
 > Underlay.png (1100x1100) - Underlay is used below the artwork and is not masked
 
+> Info.plist - Used for displaying author info - [template]()
+
 # Third Party Support
 
 ### Apps
