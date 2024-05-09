@@ -1,5 +1,5 @@
 # N95
-Artwork masking for iOS 13 Music app - Now available for download on [Havoc](https://havoc.app/package/com.nahtedetihw.n95)
+Now available for download on [Havoc](https://havoc.app/package/n95)
 
 ![download](https://i.ibb.co/ZM05H6T/banner.png)
 
@@ -32,10 +32,11 @@ Artwork masking for iOS 13 Music app - Now available for download on [Havoc](htt
 - [x] YouTube Music
 - [x] Deezer
 - [x] Marvis
-- [ ] Anghami
+- [x] Anghami
 
 ### Tweaks
 
+- [x] 16Player
 - [x] NextUp 2
 - [x] Flow
 
@@ -47,4 +48,4 @@ Support for other apps such as Spotify, Pandora and others is coming. We will an
 
 
 ##
-Copyright © 2020, [Ethan Whited](https://twitter.com/EthanWhited) & [MTAC](https://twitter.com/mtac8)
+Copyright © 2020 - 2024, [Ethan Whited](https://twitter.com/EthanWhited) & [MTAC](https://twitter.com/mtac8)
