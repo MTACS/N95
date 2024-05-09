@@ -1,5 +1,5 @@
 # N95
-Artwork masking for iOS 13 Music app - Now available for download on [Twickd](https://repo.twickd.com/package/com.twickd.ethan-whited.n95)
+Artwork masking for iOS 13 Music app - Now available for download on [Havoc](https://havoc.app/package/com.nahtedetihw.n95)
 
 ![download](https://i.ibb.co/ZM05H6T/banner.png)
 
