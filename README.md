@@ -37,6 +37,12 @@ Now available for download on [Havoc](https://havoc.app/package/n95)
 ### Tweaks
 
 - [x] 16Player
+- [x] Dodo
+- [x] ReachPlayer
+- [x] Quart
+- [x] MusicBackground
+- [x] NowPlayingModule
+- [x] LandscapeMusic
 - [x] NextUp 2
 - [x] Flow
 
